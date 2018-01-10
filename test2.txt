@@ -1,2 +1,1 @@
-abcdefg
-more lines
+This is what I want to keep
